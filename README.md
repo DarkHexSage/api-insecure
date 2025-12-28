@@ -855,6 +855,10 @@ curl -X POST http://localhost:8000/api/v1/user/update \
 - [CORS Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 ---
+## Screenshots
+<img width="923" height="368" alt="image" src="https://github.com/user-attachments/assets/7d759dab-d8a1-4d2d-914a-9c978181f907" />
+<img width="870" height="880" alt="image" src="https://github.com/user-attachments/assets/1f8c895f-0b91-4023-a8cd-33999b9a677d" />
+
 
 
 ## 💡 Final Thoughts
