@@ -856,6 +856,12 @@ curl -X POST http://localhost:8000/api/v1/user/update \
 
 ---
 
+## Screenshots
+
+<img width="870" height="880" alt="image" src="https://github.com/user-attachments/assets/70e99e85-a0a2-4327-9459-58c32161ea74" />
+<img width="923" height="368" alt="image" src="https://github.com/user-attachments/assets/d152dcdd-f2ff-42fc-9a2d-e50b7e696a98" />
+
+
 
 ## 💡 Final Thoughts
 
